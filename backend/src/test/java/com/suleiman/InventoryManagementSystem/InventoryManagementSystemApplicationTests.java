@@ -1,4 +1,4 @@
-package com.phegondev.InventoryManagementSystem;
+package com.suleiman.InventoryManagementSystem;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

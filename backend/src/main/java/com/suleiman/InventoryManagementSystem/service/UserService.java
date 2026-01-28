@@ -1,10 +1,10 @@
-package com.phegondev.InventoryManagementSystem.service;
+package com.suleiman.InventoryManagementSystem.service;
 
-import com.phegondev.InventoryManagementSystem.dto.LoginRequest;
-import com.phegondev.InventoryManagementSystem.dto.RegisterRequest;
-import com.phegondev.InventoryManagementSystem.dto.Response;
-import com.phegondev.InventoryManagementSystem.dto.UserDTO;
-import com.phegondev.InventoryManagementSystem.entity.User;
+import com.suleiman.InventoryManagementSystem.dto.LoginRequest;
+import com.suleiman.InventoryManagementSystem.dto.RegisterRequest;
+import com.suleiman.InventoryManagementSystem.dto.Response;
+import com.suleiman.InventoryManagementSystem.dto.UserDTO;
+import com.suleiman.InventoryManagementSystem.entity.User;
 
 public interface UserService {
     Response registerUser(RegisterRequest registerRequest);

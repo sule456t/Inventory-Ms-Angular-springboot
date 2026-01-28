@@ -1,7 +1,7 @@
-package com.phegondev.InventoryManagementSystem.entity;
+package com.suleiman.InventoryManagementSystem.entity;
 
-import com.phegondev.InventoryManagementSystem.enums.TransactionStatus;
-import com.phegondev.InventoryManagementSystem.enums.TransactionType;
+import com.suleiman.InventoryManagementSystem.enums.TransactionStatus;
+import com.suleiman.InventoryManagementSystem.enums.TransactionType;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;

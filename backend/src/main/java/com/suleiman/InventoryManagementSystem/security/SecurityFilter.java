@@ -1,7 +1,7 @@
-package com.phegondev.InventoryManagementSystem.security;
+package com.suleiman.InventoryManagementSystem.security;
 
-import com.phegondev.InventoryManagementSystem.exceptions.CustomAccessDeniedHandler;
-import com.phegondev.InventoryManagementSystem.exceptions.CustomAuthenticationEntryPoint;
+import com.suleiman.InventoryManagementSystem.exceptions.CustomAccessDeniedHandler;
+import com.suleiman.InventoryManagementSystem.exceptions.CustomAuthenticationEntryPoint;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.annotation.Bean;

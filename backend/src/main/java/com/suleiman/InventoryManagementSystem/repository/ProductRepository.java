@@ -1,6 +1,6 @@
-package com.phegondev.InventoryManagementSystem.repository;
+package com.suleiman.InventoryManagementSystem.repository;
 
-import com.phegondev.InventoryManagementSystem.entity.Product;
+import com.suleiman.InventoryManagementSystem.entity.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface ProductRepository extends JpaRepository<Product, Long> {

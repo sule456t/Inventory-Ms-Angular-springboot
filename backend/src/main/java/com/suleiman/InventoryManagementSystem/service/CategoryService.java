@@ -1,7 +1,7 @@
-package com.phegondev.InventoryManagementSystem.service;
+package com.suleiman.InventoryManagementSystem.service;
 
-import com.phegondev.InventoryManagementSystem.dto.CategoryDTO;
-import com.phegondev.InventoryManagementSystem.dto.Response;
+import com.suleiman.InventoryManagementSystem.dto.CategoryDTO;
+import com.suleiman.InventoryManagementSystem.dto.Response;
 
 public interface CategoryService {
     Response createCategory(CategoryDTO categoryDTO);

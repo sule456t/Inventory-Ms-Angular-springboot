@@ -1,9 +1,9 @@
-package com.phegondev.InventoryManagementSystem.controller;
+package com.suleiman.InventoryManagementSystem.controller;
 
-import com.phegondev.InventoryManagementSystem.dto.Response;
-import com.phegondev.InventoryManagementSystem.dto.TransactionRequest;
-import com.phegondev.InventoryManagementSystem.enums.TransactionStatus;
-import com.phegondev.InventoryManagementSystem.service.TransactionService;
+import com.suleiman.InventoryManagementSystem.dto.Response;
+import com.suleiman.InventoryManagementSystem.dto.TransactionRequest;
+import com.suleiman.InventoryManagementSystem.enums.TransactionStatus;
+import com.suleiman.InventoryManagementSystem.service.TransactionService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

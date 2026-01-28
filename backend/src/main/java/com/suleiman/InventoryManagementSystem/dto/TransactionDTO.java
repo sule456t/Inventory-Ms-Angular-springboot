@@ -1,9 +1,9 @@
-package com.phegondev.InventoryManagementSystem.dto;
+package com.suleiman.InventoryManagementSystem.dto;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonInclude;
-import com.phegondev.InventoryManagementSystem.enums.TransactionStatus;
-import com.phegondev.InventoryManagementSystem.enums.TransactionType;
+import com.suleiman.InventoryManagementSystem.enums.TransactionStatus;
+import com.suleiman.InventoryManagementSystem.enums.TransactionType;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

@@ -1,6 +1,6 @@
-package com.phegondev.InventoryManagementSystem.entity;
+package com.suleiman.InventoryManagementSystem.entity;
 
-import com.phegondev.InventoryManagementSystem.enums.UserRole;
+import com.suleiman.InventoryManagementSystem.enums.UserRole;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;
 import lombok.AllArgsConstructor;

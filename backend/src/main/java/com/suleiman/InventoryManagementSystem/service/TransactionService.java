@@ -1,8 +1,8 @@
-package com.phegondev.InventoryManagementSystem.service;
+package com.suleiman.InventoryManagementSystem.service;
 
-import com.phegondev.InventoryManagementSystem.dto.Response;
-import com.phegondev.InventoryManagementSystem.dto.TransactionRequest;
-import com.phegondev.InventoryManagementSystem.enums.TransactionStatus;
+import com.suleiman.InventoryManagementSystem.dto.Response;
+import com.suleiman.InventoryManagementSystem.dto.TransactionRequest;
+import com.suleiman.InventoryManagementSystem.enums.TransactionStatus;
 
 public interface TransactionService {
     Response restockInventory(TransactionRequest transactionRequest);

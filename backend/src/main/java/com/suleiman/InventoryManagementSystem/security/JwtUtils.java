@@ -1,4 +1,4 @@
-package com.phegondev.InventoryManagementSystem.security;
+package com.suleiman.InventoryManagementSystem.security;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

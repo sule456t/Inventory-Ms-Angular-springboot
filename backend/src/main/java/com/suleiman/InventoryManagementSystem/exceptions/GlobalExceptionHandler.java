@@ -1,7 +1,7 @@
-package com.phegondev.InventoryManagementSystem.exceptions;
+package com.suleiman.InventoryManagementSystem.exceptions;
 
 
-import com.phegondev.InventoryManagementSystem.dto.Response;
+import com.suleiman.InventoryManagementSystem.dto.Response;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;

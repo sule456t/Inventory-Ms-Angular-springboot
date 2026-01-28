@@ -1,8 +1,8 @@
-package com.phegondev.InventoryManagementSystem.controller;
+package com.suleiman.InventoryManagementSystem.controller;
 
-import com.phegondev.InventoryManagementSystem.dto.ProductDTO;
-import com.phegondev.InventoryManagementSystem.dto.Response;
-import com.phegondev.InventoryManagementSystem.service.ProductService;
+import com.suleiman.InventoryManagementSystem.dto.ProductDTO;
+import com.suleiman.InventoryManagementSystem.dto.Response;
+import com.suleiman.InventoryManagementSystem.service.ProductService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;

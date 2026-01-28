@@ -1,8 +1,8 @@
-package com.phegondev.InventoryManagementSystem.security;
+package com.suleiman.InventoryManagementSystem.security;
 
-import com.phegondev.InventoryManagementSystem.entity.User;
-import com.phegondev.InventoryManagementSystem.exceptions.NotFoundException;
-import com.phegondev.InventoryManagementSystem.repository.UserRepository;
+import com.suleiman.InventoryManagementSystem.entity.User;
+import com.suleiman.InventoryManagementSystem.exceptions.NotFoundException;
+import com.suleiman.InventoryManagementSystem.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

@@ -1,12 +1,12 @@
-package com.phegondev.InventoryManagementSystem.service.impl;
+package com.suleiman.InventoryManagementSystem.service.impl;
 
 
-import com.phegondev.InventoryManagementSystem.dto.CategoryDTO;
-import com.phegondev.InventoryManagementSystem.dto.Response;
-import com.phegondev.InventoryManagementSystem.entity.Category;
-import com.phegondev.InventoryManagementSystem.exceptions.NotFoundException;
-import com.phegondev.InventoryManagementSystem.repository.CategoryRepository;
-import com.phegondev.InventoryManagementSystem.service.CategoryService;
+import com.suleiman.InventoryManagementSystem.dto.CategoryDTO;
+import com.suleiman.InventoryManagementSystem.dto.Response;
+import com.suleiman.InventoryManagementSystem.entity.Category;
+import com.suleiman.InventoryManagementSystem.exceptions.NotFoundException;
+import com.suleiman.InventoryManagementSystem.repository.CategoryRepository;
+import com.suleiman.InventoryManagementSystem.service.CategoryService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.modelmapper.ModelMapper;

@@ -1,4 +1,4 @@
-package com.phegondev.InventoryManagementSystem.config;
+package com.suleiman.InventoryManagementSystem.config;
 
 
 import org.modelmapper.ModelMapper;

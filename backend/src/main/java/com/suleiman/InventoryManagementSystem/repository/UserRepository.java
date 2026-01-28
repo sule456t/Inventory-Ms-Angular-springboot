@@ -1,6 +1,6 @@
-package com.phegondev.InventoryManagementSystem.repository;
+package com.suleiman.InventoryManagementSystem.repository;
 
-import com.phegondev.InventoryManagementSystem.entity.User;
+import com.suleiman.InventoryManagementSystem.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

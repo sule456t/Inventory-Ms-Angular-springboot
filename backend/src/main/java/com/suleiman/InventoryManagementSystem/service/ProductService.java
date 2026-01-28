@@ -1,7 +1,7 @@
-package com.phegondev.InventoryManagementSystem.service;
+package com.suleiman.InventoryManagementSystem.service;
 
-import com.phegondev.InventoryManagementSystem.dto.ProductDTO;
-import com.phegondev.InventoryManagementSystem.dto.Response;
+import com.suleiman.InventoryManagementSystem.dto.ProductDTO;
+import com.suleiman.InventoryManagementSystem.dto.Response;
 import org.springframework.web.multipart.MultipartFile;
 
 public interface ProductService {

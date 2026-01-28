@@ -1,4 +1,4 @@
-package com.phegondev.InventoryManagementSystem.entity;
+package com.suleiman.InventoryManagementSystem.entity;
 
 
 import jakarta.persistence.*;

@@ -1,6 +1,6 @@
-package com.phegondev.InventoryManagementSystem.dto;
+package com.suleiman.InventoryManagementSystem.dto;
 
-import com.phegondev.InventoryManagementSystem.enums.UserRole;
+import com.suleiman.InventoryManagementSystem.enums.UserRole;
 import jakarta.validation.constraints.NotBlank;
 import lombok.AllArgsConstructor;
 import lombok.Data;

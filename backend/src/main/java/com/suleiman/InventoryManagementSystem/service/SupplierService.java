@@ -1,7 +1,7 @@
-package com.phegondev.InventoryManagementSystem.service;
+package com.suleiman.InventoryManagementSystem.service;
 
-import com.phegondev.InventoryManagementSystem.dto.Response;
-import com.phegondev.InventoryManagementSystem.dto.SupplierDTO;
+import com.suleiman.InventoryManagementSystem.dto.Response;
+import com.suleiman.InventoryManagementSystem.dto.SupplierDTO;
 
 public interface SupplierService {
     Response addSupplier(SupplierDTO supplierDTO);

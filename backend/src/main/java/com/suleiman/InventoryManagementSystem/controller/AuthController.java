@@ -1,9 +1,9 @@
-package com.phegondev.InventoryManagementSystem.controller;
+package com.suleiman.InventoryManagementSystem.controller;
 
-import com.phegondev.InventoryManagementSystem.dto.LoginRequest;
-import com.phegondev.InventoryManagementSystem.dto.RegisterRequest;
-import com.phegondev.InventoryManagementSystem.dto.Response;
-import com.phegondev.InventoryManagementSystem.service.UserService;
+import com.suleiman.InventoryManagementSystem.dto.LoginRequest;
+import com.suleiman.InventoryManagementSystem.dto.RegisterRequest;
+import com.suleiman.InventoryManagementSystem.dto.Response;
+import com.suleiman.InventoryManagementSystem.service.UserService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

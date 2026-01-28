@@ -1,4 +1,4 @@
-package com.phegondev.InventoryManagementSystem.dto;
+package com.suleiman.InventoryManagementSystem.dto;
 
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

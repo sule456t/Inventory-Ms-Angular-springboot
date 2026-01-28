@@ -1,4 +1,4 @@
-package com.phegondev.InventoryManagementSystem.exceptions;
+package com.suleiman.InventoryManagementSystem.exceptions;
 
 public class NameValueRequiredException extends RuntimeException{
     public NameValueRequiredException(String message){

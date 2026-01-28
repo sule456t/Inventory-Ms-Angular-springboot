@@ -1,9 +1,9 @@
-package com.phegondev.InventoryManagementSystem.controller;
+package com.suleiman.InventoryManagementSystem.controller;
 
-import com.phegondev.InventoryManagementSystem.dto.Response;
-import com.phegondev.InventoryManagementSystem.dto.UserDTO;
-import com.phegondev.InventoryManagementSystem.entity.User;
-import com.phegondev.InventoryManagementSystem.service.UserService;
+import com.suleiman.InventoryManagementSystem.dto.Response;
+import com.suleiman.InventoryManagementSystem.dto.UserDTO;
+import com.suleiman.InventoryManagementSystem.entity.User;
+import com.suleiman.InventoryManagementSystem.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;

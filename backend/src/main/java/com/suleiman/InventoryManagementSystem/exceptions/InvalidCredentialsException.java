@@ -1,4 +1,4 @@
-package com.phegondev.InventoryManagementSystem.exceptions;
+package com.suleiman.InventoryManagementSystem.exceptions;
 
 public class InvalidCredentialsException extends RuntimeException{
     public InvalidCredentialsException(String message){

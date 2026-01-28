@@ -1,7 +1,7 @@
-package com.phegondev.InventoryManagementSystem.exceptions;
+package com.suleiman.InventoryManagementSystem.exceptions;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.phegondev.InventoryManagementSystem.dto.Response;
+import com.suleiman.InventoryManagementSystem.dto.Response;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;

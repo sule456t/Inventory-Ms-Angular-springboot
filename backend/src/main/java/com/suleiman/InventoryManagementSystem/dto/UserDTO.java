@@ -1,9 +1,9 @@
-package com.phegondev.InventoryManagementSystem.dto;
+package com.suleiman.InventoryManagementSystem.dto;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonInclude;
-import com.phegondev.InventoryManagementSystem.enums.UserRole;
+import com.suleiman.InventoryManagementSystem.enums.UserRole;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

@@ -1,4 +1,4 @@
-package com.phegondev.InventoryManagementSystem.exceptions;
+package com.suleiman.InventoryManagementSystem.exceptions;
 
 public class NotFoundException extends RuntimeException{
     public NotFoundException(String message){

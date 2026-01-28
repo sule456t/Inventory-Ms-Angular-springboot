@@ -1,6 +1,6 @@
-package com.phegondev.InventoryManagementSystem.security;
+package com.suleiman.InventoryManagementSystem.security;
 
-import com.phegondev.InventoryManagementSystem.entity.User;
+import com.suleiman.InventoryManagementSystem.entity.User;
 import lombok.Builder;
 import lombok.Data;
 import org.springframework.security.core.GrantedAuthority;
